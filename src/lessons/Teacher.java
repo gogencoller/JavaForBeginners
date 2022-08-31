@@ -15,11 +15,7 @@ public class Teacher {
         person2.age = 55;
         person2.subgect = "Math";
         System.out.println("Меня зовут "+person2.name + " моя фамилия "+person2.lastname +","+ " мне "+ person2.age +" и я преподаю "+person2.subgect);
-
-
-
     }
-
 }
 class Person{
     String name;

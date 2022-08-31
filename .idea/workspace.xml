@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac3fcc09-c5b8-4cb2-9718-eedf1e3a2107" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/Teacher.java" afterDir="false" />
-    </list>
+    <list default="true" id="ac3fcc09-c5b8-4cb2-9718-eedf1e3a2107" name="Changes" comment="Adding new object" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661859390526</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding new object">
+      <created>1661944632002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661944632002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,19 +77,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/lessons/Teacher.java</url>
-          <line>4</line>
-          <properties class="lessons.Teacher" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding new object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new object" />
   </component>
 </project>
