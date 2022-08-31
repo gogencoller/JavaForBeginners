@@ -17,7 +17,7 @@ public class Teacher {
         System.out.println("Меня зовут "+person2.name + " моя фамилия "+person2.lastname +","+ " мне "+ person2.age +" и я преподаю "+person2.subgect);
     }
 }
-class Person{
+    class Person{
     String name;
     String lastname;
     String subgect;
